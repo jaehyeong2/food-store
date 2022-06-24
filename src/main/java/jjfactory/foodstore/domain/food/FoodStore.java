@@ -1,4 +1,4 @@
-package jjfactory.foodstore.domain;
+package jjfactory.foodstore.domain.food;
 
 import lombok.AccessLevel;
 import lombok.Getter;

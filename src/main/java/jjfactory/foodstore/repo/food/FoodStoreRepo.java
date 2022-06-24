@@ -1,7 +1,6 @@
-package jjfactory.foodstore.repo;
+package jjfactory.foodstore.repo.food;
 
-import jjfactory.foodstore.domain.FoodStore;
-import jjfactory.foodstore.domain.FoodType;
+import jjfactory.foodstore.domain.food.FoodStore;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface FoodStoreRepo extends JpaRepository<FoodStore,Long> {
